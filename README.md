@@ -1,4 +1,4 @@
-# AuthReactStarter
+# auth-react-app
 
 
 ### Getting Started
